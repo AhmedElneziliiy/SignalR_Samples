@@ -41,7 +41,7 @@ namespace SignalR_Samples.Controllers
 
 
 
-        public IActionResult Privacy()
+        public IActionResult Notification()
         {
             return View();
         }
